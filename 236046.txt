@@ -1,0 +1,19 @@
+Домашна 1
+
+Автор: Иван Занов
+Индекс: 236046
+Предмет: Софтверско Инженерство
+
+Користени Git команди (со краток опис):
+
+1. Иницијализација на локален GIT репозиториум: git init
+2. Додавање на оддалечениот репозиторим: git remote add origin https://github.com/MODDI1/SI_2025_lab1_236046.git
+3. Префрлување на нова гранка: git checkout 1-remove-a-task-by-name
+4. Додавање на датотеки: git add . (или git add README.md)
+5. Креирање commit со порака: git commit -m "Implemented issue1"
+6. Синхронизација со оддалечениот репозиториум: git fetch origin
+7. Испраќање на гранка на оддалечениот репо: git push origin master
+8. Спојување на гранка локално: git checkout master, git merge 1-remove-a-task-by-name
+
+ 
+

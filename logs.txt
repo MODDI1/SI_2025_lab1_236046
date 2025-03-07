@@ -1,0 +1,14 @@
+* d7f07eb Implemented issue3
+*   2d36f1e Merge pull request #10 from MODDI1/1-remove-a-task-by-name
+|\  
+| * cbf3fc1 Implemented issue1
+* |   8a76ac1 Merge pull request #11 from MODDI1/3-list-tasks-sorted-by-name
+|\ \  
+| |/  
+|/|   
+| * 56c9eb8 Implemented issue2
+|/  
+| * 1296b48 Implemented issue3
+|/  
+* cea6be4 Add started code
+* 00d031c Initial commit
